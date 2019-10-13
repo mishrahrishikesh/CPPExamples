@@ -5,4 +5,5 @@ C++ is a powerful programming languages. Everyone looking to get into coding sho
 
 This repository is meant to provide examples of C++ program prompts with accompanying code solutions to help beginners understand the basic syntax of C++ and important aspects of programming as a whole.
 
-Contributors are welcome. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) to add to the repository!
+### Contributors are welcome!
+Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) to add to the repository!
