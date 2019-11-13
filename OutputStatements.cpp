@@ -10,7 +10,7 @@ int main()
 	cout << 29 / 4 << endl;
 	cout << 3.0 / 2 << endl;
 	cout << "Hello there.\n";
-	cout << 7 < endl;
+	cout << 7 << endl;
 	cout << 3 + 5 << endl;
 	cout << "3 + 5";
 	cout << endl;

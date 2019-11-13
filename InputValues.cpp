@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+int main2();
+
 int main()
 {
 	int feet;
